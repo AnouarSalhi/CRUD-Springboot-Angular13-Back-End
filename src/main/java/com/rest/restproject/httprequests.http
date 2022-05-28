@@ -1,0 +1,12 @@
+
+PUT http://localhost:8080/api/students/1
+Content-Type: application/json
+
+{
+        "id": 1,
+        "name": "hhhhhhhhhhhh salhi",
+        "email": "hhhhhhhhhhhhhh@gmail.com",
+        "birthday": "2022-05-22T11:11:12.417+00:00"
+}
+
+
